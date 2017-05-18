@@ -27,7 +27,7 @@ Repositório das aulas de preparação para OBI do colégio Pódion.
 
 ## Conteúdo programático
 
-1. Análise de complexidade
+1. Complexidade de algoritmos
 2. Arrays e matrizes
 3. Strings
 4. Busca binária
