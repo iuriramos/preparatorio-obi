@@ -49,10 +49,10 @@ Repositório das aulas de preparação para OBI do colégio Pódion.
 
 ## Links
 
-[TOBI - Treinamento para OBI](http://olimpiada.ic.unicamp.br/tobi)
-[Big O Cheat Sheet](http://bigocheatsheet.com/)
-[Sorting Algorithms](http://www.sorting-algorithms.com/)
-[Learn Python the Hard Way](https://learnpythonthehardway.org/book/)
+- [TOBI - Treinamento para OBI](http://olimpiada.ic.unicamp.br/tobi)
+- [Big O Cheat Sheet](http://bigocheatsheet.com/)
+- [Sorting Algorithms](http://www.sorting-algorithms.com/)
+- [Learn Python the Hard Way](https://learnpythonthehardway.org/book/)
 
 
 
