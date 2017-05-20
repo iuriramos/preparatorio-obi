@@ -7,7 +7,7 @@ Repositório das aulas de preparação para OBI do colégio Pódion.
 - ~~*06/05 (sábado)*- Aula Introdutória~~
 - ~~*11/05 (quinta)* - 1ª Fase Nível Iniciação~~
 - ~~*12/05 (sexta)* - 1ª Fase Nível Programação~~
-- *20/05 (sábado)* - Aula normal
+- ~~*20/05 (sábado)* - Aula normal~~
 - *27/05 (sábado)* - **Não haverá aula**
 - *03/06 (sábado)* - Aula normal
 - *08/06 (quinta)* - **2ª Fase Nível Iniciação**
@@ -27,8 +27,8 @@ Repositório das aulas de preparação para OBI do colégio Pódion.
 
 ## Conteúdo programático
 
-1. Complexidade de algoritmos
-2. Arrays e matrizes
+1. ~~Complexidade de algoritmos~~
+2. ~~Arrays e~~ matrizes
 3. Strings
 4. Busca binária
 5. Ordenação
@@ -43,14 +43,16 @@ Repositório das aulas de preparação para OBI do colégio Pódion.
 
 ## Aulas
 
-[Aula 1](./Aulas/1/)
+[Aula 1](https://iuriramos.github.io/preparatorio-obi/Aulas/1/)
+[Aula 2](https://iuriramos.github.io/preparatorio-obi/Aulas/2/)
 
 
 ## Links
 
 [TOBI - Treinamento para OBI](http://olimpiada.ic.unicamp.br/tobi)
-
-
+[Big O Cheat Sheet](http://bigocheatsheet.com/)
+[Sorting Algorithms](http://www.sorting-algorithms.com/)
+[Learn Python the Hard Way](https://learnpythonthehardway.org/book/)
 
 
 
