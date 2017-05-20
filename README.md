@@ -43,8 +43,8 @@ Repositório das aulas de preparação para OBI do colégio Pódion.
 
 ## Aulas
 
-- [Aula 1](https://github.com/iuriramos/preparatorio-obi/Aulas/1/)
-- [Aula 2](https://github.com/iuriramos/preparatorio-obi/Aulas/2/)
+- [Aula 1](https://github.com/iuriramos/preparatorio-obi/tree/master/Aulas/1/)
+- [Aula 2](https://github.com/iuriramos/preparatorio-obi/tree/master/Aulas/2/)
 
 
 ## Links
