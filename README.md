@@ -8,8 +8,8 @@ Repositório das aulas de preparação para OBI do colégio Pódion.
 - ~~*11/05 (quinta)* - 1ª Fase Nível Iniciação~~
 - ~~*12/05 (sexta)* - 1ª Fase Nível Programação~~
 - ~~*20/05 (sábado)* - Aula normal~~
-- *27/05 (sábado)* - **Não haverá aula**
-- *03/06 (sábado)* - Aula normal
+- ~~*27/05 (sábado)* - **Não haverá aula**~~
+- ~~*03/06 (sábado)* - Aula normal~~
 - *08/06 (quinta)* - **2ª Fase Nível Iniciação**
 - *09/06 (sexta)* - **2ª Fase Nível Programação**
 - *10/06 (sábado)* - Aula normal
@@ -28,10 +28,10 @@ Repositório das aulas de preparação para OBI do colégio Pódion.
 ## Conteúdo programático
 
 1. ~~Complexidade de algoritmos~~
-2. ~~Arrays e~~ matrizes
+2. ~~Arrays e matrizes ~~
 3. Strings
-4. Busca binária
-5. Ordenação
+4. Busca binária 
+5. ~~Ordenação~~
 6. Sets e Maps
 6. Listas, Filas e Pilhas
 7. Brute force e backtracking
@@ -45,14 +45,15 @@ Repositório das aulas de preparação para OBI do colégio Pódion.
 
 - [Aula 1](https://github.com/iuriramos/preparatorio-obi/tree/master/Aulas/1/)
 - [Aula 2](https://github.com/iuriramos/preparatorio-obi/tree/master/Aulas/2/)
+- [Aula 3](https://github.com/iuriramos/preparatorio-obi/tree/master/Aulas/3/)
 
 
 ## Links
 
-- [TOBI - Treinamento para OBI](http://olimpiada.ic.unicamp.br/tobi)
-- [Big O Cheat Sheet](http://bigocheatsheet.com/)
-- [Sorting Algorithms](http://www.sorting-algorithms.com/)
-- [Learn Python the Hard Way](https://learnpythonthehardway.org/book/)
+- Python: [Learn Python the Hard Way](https://learnpythonthehardway.org/book/)
+- C: [TOBI - Treinamento para OBI](http://olimpiada.ic.unicamp.br/tobi)
+- Complexidade: [Big O Cheat Sheet](http://bigocheatsheet.com/)
+- Ordenação: [Sorting Algorithms](http://www.sorting-algorithms.com/)
 
 
 
