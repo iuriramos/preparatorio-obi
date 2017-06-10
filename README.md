@@ -10,9 +10,9 @@ Repositório das aulas de preparação para OBI do colégio Pódion.
 - ~~*20/05 (sábado)* - Aula normal~~
 - ~~*27/05 (sábado)* - **Não haverá aula**~~
 - ~~*03/06 (sábado)* - Aula normal~~
-- *08/06 (quinta)* - **2ª Fase Nível Iniciação**
-- *09/06 (sexta)* - **2ª Fase Nível Programação**
-- *10/06 (sábado)* - Aula normal
+- ~~*08/06 (quinta)* - **2ª Fase Nível Iniciação**~~
+- ~~*09/06 (sexta)* - **2ª Fase Nível Programação**~~
+- ~~*10/06 (sábado)* - Aula normal~~
 - *17/06 (sábado)* - **Não haverá aula**
 - *24/06 (sábado)* - Aula normal
 - *01/07 (sábado)* - Aula normal
@@ -28,11 +28,10 @@ Repositório das aulas de preparação para OBI do colégio Pódion.
 ## Conteúdo programático
 
 1. ~~Complexidade de algoritmos~~
-2. ~~Arrays e matrizes ~~
-3. Strings
-4. Busca binária 
-5. ~~Ordenação~~
-6. Sets e Maps
+2. ~~Arrays e matrizes~~
+3. ~~Busca binária~~ 
+4. ~~Ordenação~~
+5. Sets e Maps
 6. Listas, Filas e Pilhas
 7. Brute force e backtracking
 8. Algoritmos gulosos
@@ -43,9 +42,10 @@ Repositório das aulas de preparação para OBI do colégio Pódion.
 
 ## Aulas
 
-- [Aula 1](https://github.com/iuriramos/preparatorio-obi/tree/master/Aulas/1/)
-- [Aula 2](https://github.com/iuriramos/preparatorio-obi/tree/master/Aulas/2/)
-- [Aula 3](https://github.com/iuriramos/preparatorio-obi/tree/master/Aulas/3/)
+- [Aula 1 (Aula Inaugural)](https://github.com/iuriramos/preparatorio-obi/tree/master/Aulas/1/)
+- [Aula 2 (Complexidade, Arrays, Matrizes)](https://github.com/iuriramos/preparatorio-obi/tree/master/Aulas/2/)
+- [Aula 3 (Ordenação)](https://github.com/iuriramos/preparatorio-obi/tree/master/Aulas/3/)
+- [Aula 4 (Busca Binária)](https://github.com/iuriramos/preparatorio-obi/tree/master/Aulas/4/)
 
 
 ## Links
