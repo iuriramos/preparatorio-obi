@@ -14,7 +14,7 @@ Repositório das aulas de preparação para OBI do colégio Pódion.
 - ~~*09/06 (sexta)* - **2ª Fase Nível Programação**~~
 - ~~*10/06 (sábado)* - Aula normal~~
 - ~~*17/06 (sábado)* - Não haverá aula~~
-- *24/06 (sábado)* - **Não haverá aula em decorrência da premiação da OBF**
+- ***24/06 (sábado)* - Não haverá aula em decorrência da premiação da OBF**
 - *01/07 (sábado)* - Aula normal
 - *08/07 (sábado)* - Aula normal
 - *15/07 (sábado)* - **Não haverá aula**
