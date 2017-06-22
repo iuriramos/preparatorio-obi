@@ -8,13 +8,13 @@ Repositório das aulas de preparação para OBI do colégio Pódion.
 - ~~*11/05 (quinta)* - 1ª Fase Nível Iniciação~~
 - ~~*12/05 (sexta)* - 1ª Fase Nível Programação~~
 - ~~*20/05 (sábado)* - Aula normal~~
-- ~~*27/05 (sábado)* - **Não haverá aula**~~
+- ~~*27/05 (sábado)* - Não haverá aula~~
 - ~~*03/06 (sábado)* - Aula normal~~
 - ~~*08/06 (quinta)* - **2ª Fase Nível Iniciação**~~
 - ~~*09/06 (sexta)* - **2ª Fase Nível Programação**~~
 - ~~*10/06 (sábado)* - Aula normal~~
-- *17/06 (sábado)* - **Não haverá aula**
-- *24/06 (sábado)* - Aula normal
+- ~~*17/06 (sábado)* - Não haverá aula~~
+- *24/06 (sábado)* - **Não haverá aula em decorrência da premiação da OBF**
 - *01/07 (sábado)* - Aula normal
 - *08/07 (sábado)* - Aula normal
 - *15/07 (sábado)* - **Não haverá aula**
