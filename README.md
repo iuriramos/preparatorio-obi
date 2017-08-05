@@ -21,23 +21,23 @@ Repositório das aulas de preparação para OBI do colégio Pódion.
 - ~~*08/07 (sábado)* - Aula normal~~
 - ~~*15/07 (sábado)* - Não haverá aula~~
 - ~~*22/07 (sábado)* - Não haverá aula~~
-- *29/07 (sábado)* - **Aula normal**
-- *05/08 (sábado)* - Aula normal
-- *12/08 (sábado)* - **3ª Fase Nível Iniciação**
+- ~~*29/07 (sábado)* - Aula normal~~
+- ~~*05/08 (sábado)* - Aula normal~~
+- *12/08 (sábado)* - 3ª Fase Nível Iniciação
 - *19/08 (sábado)* - **3ª Fase Nível Programação**
 
 
 ## Conteúdo programático
 
-1. ~~Complexidade de algoritmos~~
-2. ~~Arrays e matrizes~~
-3. ~~Busca binária~~ 
-4. ~~Ordenação~~
-5. ~~Sets e Maps~~
-6. ~~Listas, Filas e Pilhas~~
-7. ~~Brute force e backtracking~~
+1. Complexidade de algoritmos
+2. Arrays e matrizes
+3. Busca binária
+4. Ordenação
+5. Sets e Maps
+6. Listas, Filas e Pilhas
+7. Brute force e backtracking
 8. Algoritmos gulosos
-9. ~~Programação dinâmica~~
+9. Programação dinâmica
 10. Árvores
 11. Grafos
 
@@ -50,6 +50,9 @@ Repositório das aulas de preparação para OBI do colégio Pódion.
 - [Aula 4 (Busca Binária)](https://github.com/iuriramos/preparatorio-obi/tree/master/Aulas/4/)
 - [Aula 5 (Listas, filas, pilhas, maps)](https://github.com/iuriramos/preparatorio-obi/tree/master/Aulas/5/)
 - [Aula 6 (Brute force, backtracking e programação dinâmica)](https://github.com/iuriramos/preparatorio-obi/tree/master/Aulas/6/)
+- [Aula 6 (Grafos I)](https://github.com/iuriramos/preparatorio-obi/tree/master/Aulas/7/)
+- [Aula 8 (Grafos II)](https://github.com/iuriramos/preparatorio-obi/tree/master/Aulas/8/)
+
 
 ## Links
 
