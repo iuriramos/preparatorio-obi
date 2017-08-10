@@ -18,7 +18,7 @@ void bfs(int start, int end) // mudei assinatura (CAMINHO)// sem o end--> return
     while (i>0)
     {
         j=0;
-        for (k=0;k<i;i++)// 0, 1, 2, ..., i-1   elementos do current processar
+        for (k=0;k<i;k++)// 0, 1, 2, ..., i-1   elementos do current processar
         {
             node = curr[k]; //incialmente: start
             for(l=0;l<N;l++)
