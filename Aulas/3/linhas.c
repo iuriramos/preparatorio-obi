@@ -31,7 +31,7 @@ int merge(int numeros[60010], int extra[60010], int start, int mid, int end)
         }
         k++;
     }
-    printf("%d ", soma1);
+    // printf("%d ", soma1);
     while(i<mid){
         extra[k]=numeros[i];
         i++;
@@ -55,11 +55,8 @@ int mergesort(int numeros[60010], int extra[60010], int start, int end)
     int soma = 0;
     int mid = (start + end + 1)/2;
     soma += mergesort(numeros, extra, start, mid - 1); // trabalhando com o intervalo fechado [start, mid - 1]
-    printf("soma = %d\n", soma);
     soma += mergesort(numeros, extra, mid, end); // intervalo fechado [mid, end]
-    printf("soma = %d\n", soma);
     soma += merge(numeros, extra, start, mid, end);
-    printf("soma = %d\n", soma);
     return soma;
 }
 int main()
