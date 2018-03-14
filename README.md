@@ -19,15 +19,15 @@ Para mais informações sobre a Olimpíada Brasileira de Informática, acesso [i
 - *17/05 (quinta)*- **Fase 1 (Local) Nível Programação**
 - *19/05 (sábado)*- Aula normal (7)
 - *26/05 (sábado)*- Aula normal (8)
-- *02/06 (sábado)*- **Aula a confirmar**
+- *02/06 (sábado)*- **Aula a confirmar (Feriado)**
 - *09/06 (sábado)*- Aula normal (9)
 - *16/06 (sábado)*- Aula normal (10)
 - *22/06 (sexta)*- **Fase 2 (Estadual) Nível Programação**
 - *23/06 (sábado)*- Aula normal (11)
 - *30/06 (sábado)*- Aula normal (12)
-- *07/07 (sábado)* - **Aula a confirmar - Férias Calendário 1º e 2º anos**
-- *14/07 (sábado)* - **Aula a confirmar - Calendário 1º e 2º anos**
-- *21/07 (sábado)* - **Aula a confirmar - Calendário 1º e 2º anos**
+- *07/07 (sábado)* - **Não haverá aula - Férias Calendário 1º e 2º anos**
+- *14/07 (sábado)* - **Não haverá aula - Calendário 1º e 2º anos**
+- *21/07 (sábado)* - **Não haverá aula - Calendário 1º e 2º anos**
 - *28/07 (sábado)* - **Aula a confirmar (13)**
 - *04/08 (sábado)* - Aula normal (14)
 - *11/08 (sábado)* - Aula normal (15)
