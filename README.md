@@ -2,56 +2,55 @@
 
 Repositório das aulas de preparação para OBI do colégio Pódion.
 
-**Aviso:** *Estudar para a próxima aula (29/07), conceitos de ponteiros, struct (C) e classes (Python). Sugestões de links abaixo.*
+Para mais informações sobre a Olimpíada Brasileira de Informática, acesso [informações OBI](https://olimpiada.ic.unicamp.br/info/) e [calendário da OBI](https://olimpiada.ic.unicamp.br/info/datas/).
+
 
 ## Calendário
 
-- ~~*06/05 (sábado)*- Aula Introdutória~~
-- ~~*11/05 (quinta)* - 1ª Fase Nível Iniciação~~
-- ~~*12/05 (sexta)* - 1ª Fase Nível Programação~~
-- ~~*20/05 (sábado)* - Aula normal~~
-- ~~*27/05 (sábado)* - Não haverá aula~~
-- ~~*03/06 (sábado)* - Aula normal~~
-- ~~*08/06 (quinta)* - **2ª Fase Nível Iniciação**~~
-- ~~*09/06 (sexta)* - **2ª Fase Nível Programação**~~
-- ~~*10/06 (sábado)* - Aula normal~~
-- ~~*17/06 (sábado)* - Não haverá aula~~
-- ~~***24/06 (sábado)* - Não haverá aula em decorrência da premiação da OBF**~~
-- ~~*01/07 (sábado)* - Aula normal~~
-- ~~*08/07 (sábado)* - Aula normal~~
-- ~~*15/07 (sábado)* - Não haverá aula~~
-- ~~*22/07 (sábado)* - Não haverá aula~~
-- ~~*29/07 (sábado)* - Aula normal~~
-- ~~*05/08 (sábado)* - Aula normal~~
-- *12/08 (sábado)* - 3ª Fase Nível Iniciação
-- *19/08 (sábado)* - **3ª Fase Nível Programação**
+- *17/03 (sábado)*- Aula normal (1)
+- *24/03 (sábado)*- **Não haverá aula**
+- *31/03 (sábado)*- **Não haverá aula (Feriado)**
+- *07/04 (sábado)*- Aula normal (2)
+- *14/04 (sábado)*- Aula normal (3)
+- *21/04 (sábado)*- **Não haverá aula (Feriado)**
+- *28/04 (sábado)*- Aula normal (4)
+- *05/05 (sábado)*- Aula normal (5)
+- *12/05 (sábado)*- Aula normal (6)
+- *17/05 (quinta)*- **Fase 1 (Local) Nível Programação**
+- *19/05 (sábado)*- Aula normal (7)
+- *26/05 (sábado)*- Aula normal (8)
+- *02/06 (sábado)*- **Aula a confirmar**
+- *09/06 (sábado)*- Aula normal (9)
+- *16/06 (sábado)*- Aula normal (10)
+- *22/06 (sexta)*- **Fase 2 (Estadual) Nível Programação**
+- *23/06 (sábado)*- Aula normal (11)
+- *30/06 (sábado)*- Aula normal (12)
+- *07/07 (sábado)* - **Aula a confirmar - Férias Calendário 1º e 2º anos**
+- *14/07 (sábado)* - **Aula a confirmar - Calendário 1º e 2º anos**
+- *21/07 (sábado)* - **Aula a confirmar - Calendário 1º e 2º anos**
+- *28/07 (sábado)* - **Aula a confirmar (13)**
+- *04/08 (sábado)* - Aula normal (14)
+- *11/08 (sábado)* - Aula normal (15)
+- *18/08 (sábado)* - Aula normal (16)
+- *25/08 (sábado)*- **Fase 3 (Nacional) Nível Programação**
 
 
 ## Conteúdo programático
 
-1. Complexidade de algoritmos
-2. Arrays e matrizes
-3. Busca binária
-4. Ordenação
-5. Sets e Maps
-6. Listas, Filas e Pilhas
-7. Brute force e backtracking
-8. Algoritmos gulosos
-9. Programação dinâmica
-10. Árvores
-11. Grafos
+1. Fundamentos básicos - Operações básicas, Operações matemáticas, Complexidade de algoritmos, etc. (1 aulas)
+2. Arrays, matrizes e Pilhas - Conceito, operações e problemas (2 aulas)
+3. Busca binária - Conceito e problemas (1 aulas)
+4. Dicionários - Conceito, operações e problemas (2 aulas)
+5. Ordenação - Conceito, algoritmos e problemas (2 aulas)
+6. Recursão e Programação dinâmica - Algoritmos de Brute force, backtracking e dynamic programming (2/3 aulas)
+7. Algoritmos gulosos - Conceito e problemas (1 aula)
+8. Grafos - Conceitos e problemas (2 aulas)
+9. Algoritmos de Grafos - BFS, DFS, Dijkstra, etc. (2 aulas)
 
 
 ## Aulas
 
-- [Aula 1 (Aula Inaugural)](https://github.com/iuriramos/preparatorio-obi/tree/master/Aulas/1/)
-- [Aula 2 (Complexidade, Arrays, Matrizes)](https://github.com/iuriramos/preparatorio-obi/tree/master/Aulas/2/)
-- [Aula 3 (Ordenação)](https://github.com/iuriramos/preparatorio-obi/tree/master/Aulas/3/)
-- [Aula 4 (Busca Binária)](https://github.com/iuriramos/preparatorio-obi/tree/master/Aulas/4/)
-- [Aula 5 (Listas, filas, pilhas, maps)](https://github.com/iuriramos/preparatorio-obi/tree/master/Aulas/5/)
-- [Aula 6 (Brute force, backtracking e programação dinâmica)](https://github.com/iuriramos/preparatorio-obi/tree/master/Aulas/6/)
-- [Aula 6 (Grafos I)](https://github.com/iuriramos/preparatorio-obi/tree/master/Aulas/7/)
-- [Aula 8 (Grafos II)](https://github.com/iuriramos/preparatorio-obi/tree/master/Aulas/8/)
+- Aula 1
 
 
 ## Links
