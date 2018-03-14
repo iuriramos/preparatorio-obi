@@ -37,9 +37,9 @@ Para mais informações sobre a Olimpíada Brasileira de Informática, acesso [i
 
 ## Conteúdo programático
 
-1. Fundamentos básicos - Operações básicas, Operações matemáticas, Complexidade de algoritmos, etc. (1 aulas)
+1. Fundamentos básicos - Operações básicas, Operações matemáticas, Complexidade de algoritmos, etc. (1 aula)
 2. Arrays, matrizes e Pilhas - Conceito, operações e problemas (2 aulas)
-3. Busca binária - Conceito e problemas (1 aulas)
+3. Busca binária - Conceito e problemas (1 aula)
 4. Dicionários - Conceito, operações e problemas (2 aulas)
 5. Ordenação - Conceito, algoritmos e problemas (2 aulas)
 6. Recursão e Programação dinâmica - Algoritmos de Brute force, backtracking e dynamic programming (2/3 aulas)
