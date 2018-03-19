@@ -7,7 +7,8 @@ Para mais informações sobre a Olimpíada Brasileira de Informática, acesso [i
 
 ## Calendário
 
-- *17/03 (sábado)*- Aula normal (1)
+- *17/03 (sábado)*- Aula normal (0)
+- *20/03 (terça)*- Aula normal de 17h30 às 19h (1)
 - *24/03 (sábado)*- **Não haverá aula**
 - *31/03 (sábado)*- **Não haverá aula (Feriado)**
 - *07/04 (sábado)*- Aula normal (2)
