@@ -7,32 +7,32 @@ Para mais informações sobre a Olimpíada Brasileira de Informática, acesso [i
 
 ## Calendário
 
-- *17/03 (sábado)*- Aula normal (0)
-- *20/03 (terça)*- Aula normal de 17h30 às 19h (1)
+- ~~*17/03 (sábado)*- Aula normal (1)~~
+- *20/03 (terça)*- Aula normal (de 17h30 às 19h) (2)
 - *24/03 (sábado)*- **Não haverá aula**
 - *31/03 (sábado)*- **Não haverá aula (Feriado)**
-- *07/04 (sábado)*- Aula normal (2)
-- *14/04 (sábado)*- Aula normal (3)
+- *07/04 (sábado)*- Aula normal (3)
+- *14/04 (sábado)*- Aula normal (4)
 - *21/04 (sábado)*- **Não haverá aula (Feriado)**
-- *28/04 (sábado)*- Aula normal (4)
-- *05/05 (sábado)*- Aula normal (5)
-- *12/05 (sábado)*- Aula normal (6)
+- *28/04 (sábado)*- **Aula a confirmar (5) - Simulado PAS**
+- *05/05 (sábado)*- **Aula a confirmar (6) - Sábado Letivo Pódion**
+- *12/05 (sábado)*- **Aula a confirmar (7) - Sábado Letivo Pódion**
 - *17/05 (quinta)*- **Fase 1 (Local) Nível Programação**
-- *19/05 (sábado)*- Aula normal (7)
-- *26/05 (sábado)*- Aula normal (8)
-- *02/06 (sábado)*- **Aula a confirmar (Feriado)**
-- *09/06 (sábado)*- Aula normal (9)
-- *16/06 (sábado)*- Aula normal (10)
+- *19/05 (sábado)*- Aula normal (8)
+- *26/05 (sábado)*- Aula normal (9)
+- *02/06 (sábado)*- **Aula a confirmar (10) - Provável Data Vestibular UnB**
+- *09/06 (sábado)*- Aula normal (11)
+- *16/06 (sábado)*- Aula normal (12)
 - *22/06 (sexta)*- **Fase 2 (Estadual) Nível Programação**
-- *23/06 (sábado)*- Aula normal (11)
-- *30/06 (sábado)*- Aula normal (12)
-- *07/07 (sábado)* - **Não haverá aula - Férias Calendário 1º e 2º anos**
-- *14/07 (sábado)* - **Não haverá aula - Calendário 1º e 2º anos**
-- *21/07 (sábado)* - **Não haverá aula - Calendário 1º e 2º anos**
-- *28/07 (sábado)* - **Aula a confirmar (13)**
-- *04/08 (sábado)* - Aula normal (14)
-- *11/08 (sábado)* - Aula normal (15)
-- *18/08 (sábado)* - Aula normal (16)
+- *23/06 (sábado)*- **Aula a confirmar (13) - Simulado PAS**
+- *30/06 (sábado)*- **Aula a confirmar (14) - Sábado Letivo Pódion**
+- *07/07 (sábado)* - **Aula a confirmar (15) - Sábado Letivo Pódion**
+- *14/07 (sábado)* - **Não haverá aula - Férias Calendário 1º e 2º anos**
+- *21/07 (sábado)* - **Não haverá aula - Férias Calendário 1º e 2º anos**
+- *28/07 (sábado)* - **Não haverá aula - Férias Calendário 1º e 2º anos**
+- *04/08 (sábado)* - Aula normal (16)
+- *11/08 (sábado)* - Aula normal (17)
+- *18/08 (sábado)* - Aula normal (18)
 - *25/08 (sábado)*- **Fase 3 (Nacional) Nível Programação**
 
 
