@@ -9,8 +9,8 @@ Para mais informações sobre a Olimpíada Brasileira de Informática, acesso [i
 
 - ~~*17/03 (sábado)*- Aula normal (1)~~
 - ~~*20/03 (terça)*- Aula normal (de 17h30 às 19h) (2)~~
-- *24/03 (sábado)*- **Não haverá aula**
-- *31/03 (sábado)*- **Não haverá aula (Feriado)**
+- ~~*24/03 (sábado)*- **Não haverá aula**~~
+- ~~*31/03 (sábado)*- **Não haverá aula (Feriado)**~~
 - *07/04 (sábado)*- Aula normal (3)
 - *14/04 (sábado)*- Aula normal (4)
 - *21/04 (sábado)*- **Não haverá aula (Feriado)**
