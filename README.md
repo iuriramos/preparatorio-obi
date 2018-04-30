@@ -11,10 +11,11 @@ Para mais informações sobre a Olimpíada Brasileira de Informática, acesso [i
 - ~~*20/03 (terça)*- Aula normal (de 17h30 às 19h) (2)~~
 - ~~*24/03 (sábado)*- **Não haverá aula**~~
 - ~~*31/03 (sábado)*- **Não haverá aula (Feriado)**~~
-- *07/04 (sábado)*- Aula normal (3)
-- *14/04 (sábado)*- Aula normal (4)
-- *21/04 (sábado)*- **Não haverá aula (Feriado)**
-- *28/04 (sábado)*- **Aula a confirmar (5) - Simulado PAS**
+- ~~*07/04 (sábado)*- Aula normal (3)~~
+- ~~*14/04 (sábado)*- Aula normal (4)~~
+- ~~*21/04 (sábado)*- **Não haverá aula (Feriado)**~~
+- ~~*28/04 (sábado)*- **Não haverá aula - Simulado PAS**~~
+- *30/04 (segunda)*- Aula de reposição (5)
 - *05/05 (sábado)*- **Aula a confirmar (6) - Sábado Letivo Pódion**
 - *12/05 (sábado)*- **Aula a confirmar (7) - Sábado Letivo Pódion**
 - *17/05 (quinta)*- **Fase 1 (Local) Nível Programação**
@@ -47,11 +48,6 @@ Para mais informações sobre a Olimpíada Brasileira de Informática, acesso [i
 7. Algoritmos gulosos - Conceito e problemas (1 aula)
 8. Grafos - Conceitos e problemas (2 aulas)
 9. Algoritmos de Grafos - BFS, DFS, Dijkstra, etc. (2 aulas)
-
-
-## Aulas
-
-- Aula 1
 
 
 ## Links
