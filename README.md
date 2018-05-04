@@ -15,8 +15,8 @@ Para mais informações sobre a Olimpíada Brasileira de Informática, acesso [i
 - ~~*14/04 (sábado)*- Aula normal (4)~~
 - ~~*21/04 (sábado)*- **Não haverá aula (Feriado)**~~
 - ~~*28/04 (sábado)*- **Não haverá aula - Simulado PAS**~~
-- *30/04 (segunda)*- Aula de reposição (5)
-- *05/05 (sábado)*- **Aula a confirmar (6) - Sábado Letivo Pódion**
+- ~~*30/04 (segunda)*- Aula de reposição (5)~~
+- *05/05 (sábado)*- **Não haverá aula - Sábado Letivo Pódion**
 - *12/05 (sábado)*- **Aula a confirmar (7) - Sábado Letivo Pódion**
 - *17/05 (quinta)*- **Fase 1 (Local) Nível Programação**
 - *19/05 (sábado)*- Aula normal (8)
