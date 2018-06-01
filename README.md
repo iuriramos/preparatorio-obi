@@ -16,12 +16,12 @@ Para mais informações sobre a Olimpíada Brasileira de Informática, acesso [i
 - ~~*21/04 (sábado)*- **Não haverá aula (Feriado)**~~
 - ~~*28/04 (sábado)*- **Não haverá aula - Simulado PAS**~~
 - ~~*30/04 (segunda)*- Aula de reposição (5)~~
-- *05/05 (sábado)*- **Não haverá aula - Sábado Letivo Pódion**
-- *12/05 (sábado)*- **Aula a confirmar (7) - Sábado Letivo Pódion**
-- *17/05 (quinta)*- **Fase 1 (Local) Nível Programação**
-- *19/05 (sábado)*- Aula normal (8)
-- *26/05 (sábado)*- Aula normal (9)
-- *02/06 (sábado)*- **Aula a confirmar (10) - Provável Data Vestibular UnB**
+- ~~*05/05 (sábado)*- **Não haverá aula - Sábado Letivo Pódion**~~
+- ~~*12/05 (sábado)*- **Aula a confirmar (7) - Sábado Letivo Pódion**~~
+- ~~*17/05 (quinta)*- **Fase 1 (Local) Nível Programação**~~
+- ~~*19/05 (sábado)*- Aula normal (8)~~
+- ~~*26/05 (sábado)*- Aula normal (9)~~
+- *02/06 (sábado)*- Aula normal (10)
 - *09/06 (sábado)*- Aula normal (11)
 - *16/06 (sábado)*- Aula normal (12)
 - *22/06 (sexta)*- **Fase 2 (Estadual) Nível Programação**
