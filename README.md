@@ -16,24 +16,24 @@ Para mais informações sobre a Olimpíada Brasileira de Informática, acesso [i
 - ~~*21/04 (sábado)*- **Não haverá aula (Feriado)**~~
 - ~~*28/04 (sábado)*- **Não haverá aula - Simulado PAS**~~
 - ~~*30/04 (segunda)*- Aula de reposição (5)~~
-- ~~*05/05 (sábado)*- **Não haverá aula - Sábado Letivo Pódion**~~
-- ~~*12/05 (sábado)*- **Aula a confirmar (7) - Sábado Letivo Pódion**~~
+- ~~*05/05 (sábado)*- **Não haverá aula - Provas 1º e 2º anos Pódion**~~
+- ~~*12/05 (sábado)*- **Não haverá aula - Provas 1º e 2º anos Pódion**~~
 - ~~*17/05 (quinta)*- **Fase 1 (Local) Nível Programação**~~
-- ~~*19/05 (sábado)*- Aula normal (8)~~
-- ~~*26/05 (sábado)*- Aula normal (9)~~
-- *02/06 (sábado)*- Aula normal (10)
-- *09/06 (sábado)*- Aula normal (11)
-- *16/06 (sábado)*- Aula normal (12)
+- ~~*19/05 (sábado)*- Aula normal (6)~~
+- ~~*26/05 (sábado)*- Aula normal (7)~~
+- ~~*02/06 (sábado)*- Aula cancelada (8)~~
+- *09/06 (sábado)*- Aula normal (9)
+- *16/06 (sábado)*- Aula normal (10)
 - *22/06 (sexta)*- **Fase 2 (Estadual) Nível Programação**
-- *23/06 (sábado)*- **Aula a confirmar (13) - Simulado PAS**
-- *30/06 (sábado)*- **Aula a confirmar (14) - Sábado Letivo Pódion**
-- *07/07 (sábado)* - **Aula a confirmar (15) - Sábado Letivo Pódion**
+- *23/06 (sábado)*- **Não haverá aula - Simulado PAS**
+- *30/06 (sábado)*- **Não haverá aula - Provas 1º e 2º anos Pódion**
+- *07/07 (sábado)* - **Não haverá aula - Provas 1º e 2º anos Pódion**
 - *14/07 (sábado)* - **Não haverá aula - Férias Calendário 1º e 2º anos**
 - *21/07 (sábado)* - **Não haverá aula - Férias Calendário 1º e 2º anos**
 - *28/07 (sábado)* - **Não haverá aula - Férias Calendário 1º e 2º anos**
-- *04/08 (sábado)* - Aula normal (16)
-- *11/08 (sábado)* - Aula normal (17)
-- *18/08 (sábado)* - Aula normal (18)
+- *04/08 (sábado)* - Aula normal (11)
+- *11/08 (sábado)* - Aula normal (12)
+- *18/08 (sábado)* - Aula normal (13)
 - *25/08 (sábado)*- **Fase 3 (Nacional) Nível Programação**
 
 
