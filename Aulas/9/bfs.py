@@ -8,47 +8,26 @@ adj = [
     [0],       # 4
     [],        # 5
 ]
-visitado = [False for i in range(6)]
 
-start, end = [int(num) for num in input().split()]
-
-fila = deque([start]) # []
-visitado[start] = True # [T,T,T,T,T,F]
-found = False
-came_from = {} # chave(node): valor(parent)
-came_from[start] = -1
-
-while len(fila) > 0:
-    node = fila.popleft() # 3
-    if node == end:
-        found = True
-        break
-    for neigh in adj[node]: # [0, 1, 3']
-        if visitado[neigh] == False:
-            came_from[neigh] = node
-            visitado[neigh] = True
-            fila.append(neigh)
-            
-if found:
-    print('Encontrei')
-    path = [end]
-    while True:
-        node = path[-1]
-        pnode = came_from[node]
-        if pnode == -1:
-            break
-        path.append(pnode)
-    path.reverse()
-    print(path)
+def bfs(start, end):
+    queue = deque([start]) # fila de processamento []
+    visited = [False for i in range(6)]
+    visited[start] = True 
     
+    while len(queue) > 0:
+        node = queue.popleft() # retira 1o elemento da fila
+        if node == end:
+            return True # end node encontrado
+        for neigh in adj[node]: # percorre todos os vizinhos de node
+            if not visited[neigh]: # neigh não foi visitado
+                visited[neigh] = True # marca neigh como visitado
+                queue.append(neigh) # e adiciona neigh na fila
+    return False # end node não encontrado
+            
+start, end = input().split()
+start, end = int(start), int(end)
+            
+if bfs(start, end):
+    print('Encontrei')
 else:
     print('Não Encontrei')
-
-
-
-
-
-
-
-
-
