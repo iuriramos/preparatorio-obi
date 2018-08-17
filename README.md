@@ -33,7 +33,7 @@ Para mais informações sobre a Olimpíada Brasileira de Informática, acesso [i
 - ~~*28/07 (sábado)* - **Aula de reposição (11)**
 - ~~*04/08 (sábado)* - Aula normal (12)~~
 - ~~*11/08 (sábado)* - Aula normal (13)~~
-- *18/08 (sábado)* - Aula normal (14)
+- ~~*18/08 (sábado)* - Aula normal (14)~~
 - *25/08 (sábado)*- **Fase 3 (Nacional) Nível Programação**
 
 
